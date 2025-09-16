@@ -1,0 +1,37 @@
+# Core packages
+numpy
+scikit-learn
+
+# RAG Framework
+langchain
+langchain-community
+langchain-text-splitters
+qdrant-client  # Remplace ChromaDB pour plus de robustesse
+sentence-transformers
+
+# LLM
+google-generativeai
+
+# PDF Processing  
+PyMuPDF  # Gardez seulement celui-ci, plus fiable que pdfplumber
+pytesseract  # Pour OCR si nécessaire
+Pillow
+
+# API
+fastapi
+uvicorn[standard]
+pydantic
+
+# Data Processing
+pandas
+python-dotenv
+
+# Utilities
+pyyaml  # Pour config.yaml
+tqdm   # Barres de progression
+
+# Testing
+pytest
+requests
+
+rank_bm25==0.2.2

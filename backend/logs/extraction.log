@@ -1,0 +1,40 @@
+2025-09-14 00:43:55,264 - processing.pdf_extractor - INFO - Extraction de 5 PDFs...
+2025-09-14 00:43:55,265 - processing.pdf_extractor - INFO - Extraction PDF: code_commerce.pdf
+2025-09-14 00:43:55,272 - processing.pdf_extractor - INFO - Traitement de 265 pages...
+2025-09-14 00:43:55,527 - processing.pdf_extractor - INFO -   Progression: 50/265 pages
+2025-09-14 00:43:55,680 - processing.pdf_extractor - INFO -   Progression: 100/265 pages
+2025-09-14 00:43:55,914 - processing.pdf_extractor - INFO -   Progression: 150/265 pages
+2025-09-14 00:43:56,113 - processing.pdf_extractor - INFO -   Progression: 200/265 pages
+2025-09-14 00:43:56,372 - processing.pdf_extractor - INFO -   Progression: 250/265 pages
+2025-09-14 00:43:56,495 - processing.pdf_extractor - INFO - Extraction réussie: 467500 caractères
+2025-09-14 00:43:56,503 - processing.pdf_extractor - INFO - Texte sauvegardé: C:\Users\L450\Desktop\Qanounek\backend\data\processed\extracted_text\code_commerce.txt
+2025-09-14 00:43:56,504 - processing.pdf_extractor - INFO - Extraction PDF: code_penal.pdf
+2025-09-14 00:43:56,512 - processing.pdf_extractor - INFO - Traitement de 252 pages...
+2025-09-14 00:43:56,723 - processing.pdf_extractor - INFO -   Progression: 50/252 pages
+2025-09-14 00:43:56,915 - processing.pdf_extractor - INFO -   Progression: 100/252 pages
+2025-09-14 00:43:57,107 - processing.pdf_extractor - INFO -   Progression: 150/252 pages
+2025-09-14 00:43:57,322 - processing.pdf_extractor - INFO -   Progression: 200/252 pages
+2025-09-14 00:43:57,582 - processing.pdf_extractor - INFO -   Progression: 250/252 pages
+2025-09-14 00:43:57,625 - processing.pdf_extractor - INFO - Extraction réussie: 434146 caractères
+2025-09-14 00:43:57,681 - processing.pdf_extractor - INFO - Texte sauvegardé: C:\Users\L450\Desktop\Qanounek\backend\data\processed\extracted_text\code_penal.txt
+2025-09-14 00:43:57,682 - processing.pdf_extractor - INFO - Extraction PDF: code_procedure_civile.pdf
+2025-09-14 00:43:57,685 - processing.pdf_extractor - INFO - Traitement de 184 pages...
+2025-09-14 00:43:57,908 - processing.pdf_extractor - INFO -   Progression: 50/184 pages
+2025-09-14 00:43:58,121 - processing.pdf_extractor - INFO -   Progression: 100/184 pages
+2025-09-14 00:43:58,332 - processing.pdf_extractor - INFO -   Progression: 150/184 pages
+2025-09-14 00:43:58,506 - processing.pdf_extractor - INFO - Extraction réussie: 330775 caractères
+2025-09-14 00:43:58,588 - processing.pdf_extractor - INFO - Texte sauvegardé: C:\Users\L450\Desktop\Qanounek\backend\data\processed\extracted_text\code_procedure_civile.txt
+2025-09-14 00:43:58,588 - processing.pdf_extractor - INFO - Extraction PDF: code_route.pdf
+2025-09-14 00:43:58,591 - processing.pdf_extractor - INFO - Traitement de 107 pages...
+2025-09-14 00:43:58,813 - processing.pdf_extractor - INFO -   Progression: 50/107 pages
+2025-09-14 00:43:59,057 - processing.pdf_extractor - INFO -   Progression: 100/107 pages
+2025-09-14 00:43:59,118 - processing.pdf_extractor - INFO - Extraction réussie: 260015 caractères
+2025-09-14 00:43:59,138 - processing.pdf_extractor - INFO - Texte sauvegardé: C:\Users\L450\Desktop\Qanounek\backend\data\processed\extracted_text\code_route.txt
+2025-09-14 00:43:59,139 - processing.pdf_extractor - INFO - Extraction PDF: code_travail.pdf
+2025-09-14 00:43:59,143 - processing.pdf_extractor - INFO - Traitement de 206 pages...
+2025-09-14 00:43:59,370 - processing.pdf_extractor - INFO -   Progression: 50/206 pages
+2025-09-14 00:43:59,577 - processing.pdf_extractor - INFO -   Progression: 100/206 pages
+2025-09-14 00:43:59,842 - processing.pdf_extractor - INFO -   Progression: 150/206 pages
+2025-09-14 00:44:00,108 - processing.pdf_extractor - INFO -   Progression: 200/206 pages
+2025-09-14 00:44:00,183 - processing.pdf_extractor - INFO - Extraction réussie: 352925 caractères
+2025-09-14 00:44:00,189 - processing.pdf_extractor - INFO - Texte sauvegardé: C:\Users\L450\Desktop\Qanounek\backend\data\processed\extracted_text\code_travail.txt

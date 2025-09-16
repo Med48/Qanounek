@@ -7,6 +7,8 @@
 
 *.bat
 
+History.txt
+
 # ==========================
 # Ignorer les fichiers Word ou PDF
 # ==========================

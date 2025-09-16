@@ -7,8 +7,6 @@
 
 *.bat
 
-History.txt
-
 # ==========================
 # Ignorer les fichiers Word ou PDF
 # ==========================
@@ -68,3 +66,5 @@ build/
 # ==========================
 .DS_Store
 Thumbs.db
+
+History.txt
